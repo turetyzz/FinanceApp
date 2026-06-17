@@ -4,6 +4,7 @@
 3	i7j8k9l	feat: добавлены диалоги AddIncomeDialog и AddExpenseDialog
 4	m0n1o2p	feat: реализован MainWindow с отображением баланса, доходов/расходов и таблицы операций
 5	q3r4s5t	feat: добавлены кнопки «Удалить выбранное» и «Очистить всё»
+
 Скриншот коммитов в GitHub:
 <img width="672" height="122" alt="image" src="https://github.com/user-attachments/assets/e69e7fa2-97c1-481b-965b-22f7cc79711a" />
 
